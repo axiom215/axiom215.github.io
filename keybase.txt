@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/iilii
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://josh-terry.com
+  * I am iilii (https://keybase.io/iilii) on keybase.
+  * I have a public key ASCsAW2fzLGnG6sAORJKiaFVA3AY355FehfaKuXueHKSLAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ac016d9fccb1a71bab0039124a89a155037018df9e457a17da2ae5ee7872922c0a",
+      "host": "keybase.io",
+      "kid": "0120ac016d9fccb1a71bab0039124a89a155037018df9e457a17da2ae5ee7872922c0a",
+      "uid": "b67ac5b129895d0ca4643ab808865d19",
+      "username": "iilii"
+    },
+    "merkle_root": {
+      "ctime": 1555551723,
+      "hash": "6d6a7c75c7c36f8a46ae52280849e9e793f1aaf65d12aef1af762c73cf896016b979a84cc447c2d7cdc200d240037d811b349404aaa15bc9635de3b02680d45d",
+      "hash_meta": "cc673c3e0e85a62f5f4a3922aff19bf6f12b2fc014dfbc54a27310e968d3e891",
+      "seqno": 5195823
+    },
+    "service": {
+      "entropy": "XqR3OEH0PgpxpFTmdRkH3QMi",
+      "hostname": "josh-terry.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.2.2"
+  },
+  "ctime": 1555551742,
+  "expire_in": 504576000,
+  "prev": "6b3ddac3ef985fe9a8d2152d2181f7da0c6873b5a40eca043103f00d7d894dc9",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgrAFtn8yxpxurADkSSomhVQNwGN+eRXoX2irl7nhykiwKp3BheWxvYWTESpcCBcQgaz3aw++YX+mo0hUtIYH32gxoc7WkDsoEMQPwDX2JTcnEIJDlcfgOGt+g2oua++jOy+hV7ZgQbaT+RbLM0GuYJVzqAgHCo3NpZ8RAFlLWs+FKi4IR5YWo1E133gGVvZaLW92HoAqCLWnbQjX2efCA7XIjvLR5Ybp/5APfufVHoljQz75IXjqmoy7sD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIO0AdL3omDQe1bNOfEk47pQIURvUF86dy8svuBDVs2Bzo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/iilii
+
+==================================================================
